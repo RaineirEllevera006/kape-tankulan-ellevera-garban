@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;
+    color: #4be758;
+    background-color: #000000;
+}
+
+h1,h2{
+    h1{
+        text-align: center;
+    }
+}
+.tagline{
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #583705;
+}
+
+.note{
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #583009;
+}
+
+#best-seller{
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #5e410b;
+    border: 5px solid #ffffff;
+    margin: 10px;
+}
